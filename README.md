@@ -15,7 +15,7 @@ One of the most important parts of running any business is to understand the val
 
 ## Steps to run the project
 
-* Create a folder in local for Git Repo and open in termianl to execute below commands-
+* Create a folder in local for the given Git Repo and open in termianl to execute below commands-
   
   git clone https://github.com/LMU-CMSI-Korpusik/final-project-customer_churn_analysis.git
 
