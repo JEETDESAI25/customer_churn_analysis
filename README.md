@@ -12,6 +12,17 @@
 
 One of the most important parts of running any business is to understand the value of your customers. And in order to survive, or even thrive in your business is to identify customers who are not hesitant to leave your business and turn towards your competitor. Customer churn model aims to identify this and generate a binary value - indicating whether a customer will churn or not. In this paper customer information from an Iranian Telecommunication company was used to predict if a customer will churn or not. The key steps used to implement this is: data preprocessing - where we clean the data from various impurities, model construction - building 3 models that will be used to predict if a customer will churn or not, and lastly, analysis of the data was done in order to mitigate the customer churn rate.
 
+
+## Steps to run the project
+
+* Create a folder in local for Git Repo and open in termianl to execute below commands-
+  
+  git clone https://github.com/LMU-CMSI-Korpusik/final-project-customer_churn_analysis.git
+
+* Navigate to the Source folder and run the churn.py file.
+* To better understand and explore the data, Navigate to the visulization folder and run data_visualization.py file.
+
+
 ## Data Description
 
 https://archive.ics.uci.edu/ml/datasets/Iranian+Churn+Dataset?TB_iframe=true&width=370.8&height=658.8
