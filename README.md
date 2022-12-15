@@ -39,7 +39,7 @@ Data is about churning telecom customers based on the below features-
 The following Approaches were used to execute the project Life cycle:
 
 (1) **Data Pre-Processing**
-- There may be several impurities in the raw data. Data preprocessing aims to get rid of all these impuritties
+There may be several impurities in the raw data. Data preprocessing aims to get rid of all these impuritties__
 
  Steps involved in Data prepocessing:
  * Removing Garbage values
