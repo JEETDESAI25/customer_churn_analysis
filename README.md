@@ -2,9 +2,11 @@
 
 ### Contributors
 
-[Hetanshee Shah](https://github.com/hetanshee)
-[Jeet Desai](https://github.com/JEETDESAI25)
-[Mustafa Zaki](https://github.com/mustafazaki98)
+* [Hetanshee Shah](https://github.com/hetanshee)
+* [Jeet Desai](https://github.com/JEETDESAI25)
+* [Mustafa Zaki](https://github.com/mustafazaki98)
+
+
 
 ## What is Constumer Churn
 
